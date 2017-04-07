@@ -1,0 +1,10 @@
+synchTabsAcrossDebies{
+  #find the tabs
+  tabs = this.tabs()
+  
+  #synch the tabs
+  that.tabs= tabs;
+}
+
+
+synchTabsAcrossDevices();
